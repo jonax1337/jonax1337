@@ -38,6 +38,17 @@ desktop: Tauri 2          # a few of those are Svelte. we don't talk about it.
 principles: [local-first, open-source-first, benchmarks over vibes]
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/output/stats-dark.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/jonax1337/jonax1337/output/stats-light.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/output/languages-dark.svg">
+  <img alt="Top languages" src="https://raw.githubusercontent.com/jonax1337/jonax1337/output/languages-light.svg" width="49%">
+</picture>
+
+<sub>Rendered daily by a GitHub Action I wrote myself, because the popular stats services are down whenever someone looks.</sub>
+
 ### Things I build
 
 | Project | What it is | Honest note |
@@ -66,6 +77,13 @@ I'm a solo dev. Technically.
 | GateGuard | Makes everyone state their intentions before `ls` |
 
 Nobody gets merged without a review. Not even the architect.
+
+### Contributions, as seen by a snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/output/snake-dark.svg">
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/jonax1337/jonax1337/output/snake-light.svg" width="100%">
+</picture>
 
 ---
 
