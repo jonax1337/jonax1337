@@ -20,14 +20,14 @@ self-employed developer and sysadmin at [LAUX DIGITAL](https://laux.digital), I 
 service desk on the side, and I spend whatever time is left mediating between several AI
 agents who all want to edit the same file at once. Based in Berlin.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=18181b)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=18181b&labelColor=18181b)
-![Next.js](https://img.shields.io/badge/Next.js-fafafa?style=for-the-badge&logo=nextdotjs&logoColor=18181b&labelColor=18181b)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-fafafa?style=for-the-badge&logo=shadcnui&logoColor=18181b&labelColor=18181b)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=18181b)
-![Rust](https://img.shields.io/badge/Rust-f74c00?style=for-the-badge&logo=rust&logoColor=white&labelColor=18181b)
-![Tauri](https://img.shields.io/badge/Tauri_2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white&labelColor=18181b)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=18181b)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181b?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-18181b?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Rust](https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=F74C00)
+![Tauri 2](https://img.shields.io/badge/Tauri_2-18181b?style=for-the-badge&logo=tauri&logoColor=24C8DB)
+![Java](https://img.shields.io/badge/Java-18181b?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 ```yaml
 location: Berlin, DE      # my wall display says the U-Bahn is late. it's right.
@@ -39,12 +39,12 @@ principles: [local-first, open-source-first, benchmarks over vibes]
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/output/stats-dark.svg">
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/jonax1337/jonax1337/output/stats-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/output/stats-dark.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/output/stats-light.svg" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/output/languages-dark.svg">
-  <img alt="Top languages" src="https://raw.githubusercontent.com/jonax1337/jonax1337/output/languages-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/output/languages-dark.svg">
+  <img alt="Top languages" src="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/output/languages-light.svg" width="49%">
 </picture>
 
 <sub>Rendered daily by a GitHub Action I wrote myself, because the popular stats services are down whenever someone looks.</sub>
@@ -81,8 +81,8 @@ Nobody gets merged without a review. Not even the architect.
 ### Contributions, as seen by a snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/output/snake-dark.svg">
-  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/jonax1337/jonax1337/output/snake-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/output/snake-dark.svg">
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/output/snake-light.svg" width="100%">
 </picture>
 
 ---
