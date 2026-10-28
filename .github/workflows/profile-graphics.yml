@@ -8,13 +8,14 @@ on:
     branches: [main]
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: profile-graphics
   cancel-in-progress: true
 
 jobs:
+  # Runs third-party code, so it only gets read access.
   render:
     runs-on: ubuntu-latest
     steps:
@@ -32,12 +33,29 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
 
       - name: Render contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-light.svg
             dist/snake-dark.svg?palette=github-dark
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: profile-graphics
+          path: dist
+
+  # Only first-party code runs with write access.
+  publish:
+    needs: render
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          name: profile-graphics
+          path: dist
 
       - name: Publish to the output branch
         working-directory: dist
