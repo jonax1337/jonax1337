@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Mostly TypeScript">
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="10" fill="#18181b" stroke="#27272a"/>
+  <text x="24" y="38" font-size="15" font-weight="600" fill="#fafafa">Mostly TypeScript</text>
+  <clipPath id="bar"><rect x="24" y="56" width="352" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="24.00" y="56" width="215.11" height="8" fill="#3178c6"/><rect x="239.11" y="56" width="64.24" height="8" fill="#dea584"/><rect x="303.36" y="56" width="32.46" height="8" fill="#f1e05a"/><rect x="335.82" y="56" width="21.01" height="8" fill="#ff3e00"/><rect x="356.83" y="56" width="14.81" height="8" fill="#b07219"/><rect x="371.64" y="56" width="4.36" height="8" fill="#663399"/></g>
+  <circle cx="29" cy="96" r="5" fill="#3178c6"/>
+  <text x="42" y="100" font-size="13" fill="#fafafa">TypeScript <tspan fill="#a1a1aa">61.1%</tspan></text>
+  <circle cx="29" cy="120" r="5" fill="#dea584"/>
+  <text x="42" y="124" font-size="13" fill="#fafafa">Rust <tspan fill="#a1a1aa">18.3%</tspan></text>
+  <circle cx="29" cy="144" r="5" fill="#f1e05a"/>
+  <text x="42" y="148" font-size="13" fill="#fafafa">JavaScript <tspan fill="#a1a1aa">9.2%</tspan></text>
+  <circle cx="205" cy="96" r="5" fill="#ff3e00"/>
+  <text x="218" y="100" font-size="13" fill="#fafafa">Svelte <tspan fill="#a1a1aa">6.0%</tspan></text>
+  <circle cx="205" cy="120" r="5" fill="#b07219"/>
+  <text x="218" y="124" font-size="13" fill="#fafafa">Java <tspan fill="#a1a1aa">4.2%</tspan></text>
+  <circle cx="205" cy="144" r="5" fill="#663399"/>
+  <text x="218" y="148" font-size="13" fill="#fafafa">CSS <tspan fill="#a1a1aa">1.2%</tspan></text>
+</svg>

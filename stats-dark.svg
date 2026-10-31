@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-label="Proof of work">
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="10" fill="#18181b" stroke="#27272a"/>
+  <text x="24" y="38" font-size="15" font-weight="600" fill="#fafafa">Proof of work</text>
+  <text x="24" y="70" font-size="13" fill="#a1a1aa">Contributions (last 12 months)</text>
+  <text x="376" y="70" font-size="13" font-weight="600" text-anchor="end" fill="#fafafa">5,074</text>
+  <text x="24" y="94" font-size="13" fill="#a1a1aa">Commits</text>
+  <text x="376" y="94" font-size="13" font-weight="600" text-anchor="end" fill="#fafafa">2,633</text>
+  <text x="24" y="118" font-size="13" fill="#a1a1aa">Pull requests</text>
+  <text x="376" y="118" font-size="13" font-weight="600" text-anchor="end" fill="#fafafa">284</text>
+  <text x="24" y="142" font-size="13" fill="#a1a1aa">Stars earned</text>
+  <text x="376" y="142" font-size="13" font-weight="600" text-anchor="end" fill="#fafafa">13</text>
+  <text x="24" y="166" font-size="13" fill="#a1a1aa">Repositories</text>
+  <text x="376" y="166" font-size="13" font-weight="600" text-anchor="end" fill="#fafafa">15</text>
+</svg>
