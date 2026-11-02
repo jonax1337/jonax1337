@@ -1,16 +1,15 @@
-```text
-[Fact-Forcing Gate]
-
-Before reading this profile, present these facts:
-
-1. Why you are here, in one sentence
-2. What this specific scroll verifies or produces
-
-Present the facts, then retry the same operation.
+```diff
+- [ Fact-Forcing Gate ]
+-
+- State two things before you continue:
+-   1. who you are
+-   2. why you're here
+-
+- Then try again.
 ```
 
-Relax — you get in free. That's the hook I put in front of my own AI assistant.
-It has to justify itself before it's allowed to run `ls`. You don't.
+Relax — you get in free. It's the same gate I put in front of my AI agents:
+they state their intent before they touch anything. You don't have to.
 
 <p align="center">
   <a href="https://laux.digital">
