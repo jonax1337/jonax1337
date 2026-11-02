@@ -13,7 +13,7 @@ they state their intent before they touch anything. You don't have to.
 
 <p align="center">
   <a href="https://laux.digital">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jonas+%F0%9F%91%8B;Self-employed+dev+%26+sysadmin+in+Berlin;local-first+%C2%B7+open-source+%C2%B7+benchmarks+over+vibes;refereeing+a+team+of+AI+agents+full-time" alt="Jonas" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=2500&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jonas+%F0%9F%91%8B;Self-employed+dev+%26+sysadmin+in+Berlin" alt="Jonas" />
   </a>
 </p>
 
