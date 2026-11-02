@@ -1,12 +1,4 @@
-```diff
-- [ Fact-Forcing Gate ]
--
-- State two things before you continue:
--   1. who you are
--   2. why you're here
--
-- Then try again.
-```
+<img src="https://raw.githubusercontent.com/jonax1337/jonax1337/refs/heads/main/assets/gate.svg" alt="Fact-Forcing Gate — state who you are and why you're here, then try again." width="560">
 
 Relax — you get in free. It's the same gate I put in front of my AI agents:
 they state their intent before they touch anything. You don't have to.

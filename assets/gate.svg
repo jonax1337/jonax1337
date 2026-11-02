@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="248" viewBox="0 0 560 248" role="img" aria-label="Fact-Forcing Gate: state who you are and why you're here, then try again.">
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .title { fill: #8b949e; font-size: 13px; }
+    .denied { fill: #f85149; font-size: 13px; font-weight: 700; letter-spacing: .5px; }
+    .head { fill: #f85149; font-size: 16px; font-weight: 700; }
+    .body { fill: #ff7b72; font-size: 15px; }
+    .dim { fill: #d08f8b; font-size: 15px; }
+  </style>
+  <rect x="1.5" y="1.5" width="557" height="245" rx="11" fill="#0d1117" stroke="#f85149" stroke-opacity="0.55" stroke-width="1.5"/>
+  <circle cx="26" cy="27" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="27" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="27" r="6" fill="#27c93f"/>
+  <text x="92" y="31" class="mono title">gateguard</text>
+  <text x="536" y="31" class="mono denied" text-anchor="end">● ACCESS DENIED</text>
+  <line x1="1.5" y1="48" x2="558.5" y2="48" stroke="#f85149" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="26" y="88"  class="mono head">[ Fact-Forcing Gate ]</text>
+  <text x="26" y="124" class="mono body">State two things before you continue:</text>
+  <text x="42" y="150" class="mono dim">1. who you are</text>
+  <text x="42" y="176" class="mono dim">2. why you're here</text>
+  <text x="26" y="214" class="mono body">Then try again.</text>
+</svg>
